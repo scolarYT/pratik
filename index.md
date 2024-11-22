@@ -44,12 +44,12 @@ This project is a responsive weather application built using **HTML**, **CSS**, 
 ---
 
 ## GitHub Repository
-Access the full project and source code here: [GitHub Repository Link](#)
+Access the full project and source code here: [GitHub Repository Link](https://github.com/scolarYT/weather-app)
 
 ---
 
 ## Demo
-A live demo of the app can be viewed here: [Live Demo Link](#)
+A live demo of the app can be viewed here: [Live Demo Link](https://scolaryt.github.io/weather-app/)
 
 
 ```
